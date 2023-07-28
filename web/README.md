@@ -12,7 +12,8 @@ From "start": "react-scripts start"
     
 To "start": "react-scripts --openssl-legacy-provider start"
 
-# Runs the app.\
+
+# Runs the app
 
 `npm start`
 
