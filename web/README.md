@@ -1,12 +1,12 @@
 # Getting Started with Create React App
 
-$ npx create-react-app crud-react-php
+### npx create-react-app crud-react-php
 
-$ cd crud-react-php
+### cd crud-react-php
 
-$ npm install axios
+### npm install axios
 
- Change the line "start" in the file package.jsom 
+# Change the line "start" in the file package.jsom 
     From "start": "react-scripts start" 
     To "start": "react-scripts --openssl-legacy-provider start"
 
