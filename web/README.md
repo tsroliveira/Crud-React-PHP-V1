@@ -7,10 +7,13 @@
 `npm install axios`
 
 Change the line "start" in the file package.jsom 
-    From "start": "react-scripts start" 
-    To "start": "react-scripts --openssl-legacy-provider start"
 
-### `npm start`
+From "start": "react-scripts start" 
+    
+To "start": "react-scripts --openssl-legacy-provider start"
+
+# 
+`npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
